@@ -1,0 +1,58 @@
+{
+  "name": "Apex Ninja Guru #12",
+  "symbol": "ANG",
+  "description": "20 Unique Ninjas",
+  "seller_fee_basis_points": 250,
+  "image": "12.png",
+  "external_url": "https://apexninjaguru.com/",
+  "edition": 12,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forest Brown"
+    },
+    {
+      "trait_type": "Sword",
+      "value": "Legbiter"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Anubis Cyan"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Quiff Black"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Home"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4XP4mgM1P9EQiWivat4Lho1d2SY2b9vgcwriq7d1YB4W",
+        "share": 100
+      }
+    ]
+  }
+}

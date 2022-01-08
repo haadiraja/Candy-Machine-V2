@@ -1,0 +1,58 @@
+{
+  "name": "Apex Ninja Guru #5",
+  "symbol": "ANG",
+  "description": "20 Unique Ninjas",
+  "seller_fee_basis_points": 250,
+  "image": "5.png",
+  "external_url": "https://apexninjaguru.com/",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hillstation Warm"
+    },
+    {
+      "trait_type": "Sword",
+      "value": "Kings Golden"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wink"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Rippedred Tanktop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Home"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4XP4mgM1P9EQiWivat4Lho1d2SY2b9vgcwriq7d1YB4W",
+        "share": 100
+      }
+    ]
+  }
+}

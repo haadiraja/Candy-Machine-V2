@@ -1,0 +1,58 @@
+{
+  "name": "Apex Ninja Guru #6",
+  "symbol": "ANG",
+  "description": "20 Unique Ninjas",
+  "seller_fee_basis_points": 250,
+  "image": "6.png",
+  "external_url": "https://apexninjaguru.com/",
+  "edition": 6,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "City Lights"
+    },
+    {
+      "trait_type": "Sword",
+      "value": "Ascalon Red"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Sheriff Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Devil Smile"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Longfringe Orange"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Wish Fulfilled"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4XP4mgM1P9EQiWivat4Lho1d2SY2b9vgcwriq7d1YB4W",
+        "share": 100
+      }
+    ]
+  }
+}

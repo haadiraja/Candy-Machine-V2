@@ -1,0 +1,58 @@
+{
+  "name": "Apex Ninja Guru #3",
+  "symbol": "ANG",
+  "description": "20 Unique Ninjas",
+  "seller_fee_basis_points": 250,
+  "image": "3.png",
+  "external_url": "https://apexninjaguru.com/",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Desert Night"
+    },
+    {
+      "trait_type": "Sword",
+      "value": "Clarent Down"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunnies"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Robotic Red"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Robo Red"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Fringeup Green"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Blue Back"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4XP4mgM1P9EQiWivat4Lho1d2SY2b9vgcwriq7d1YB4W",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Apex Ninja Guru #15",
+  "symbol": "ANG",
+  "description": "20 Unique Ninjas",
+  "seller_fee_basis_points": 250,
+  "image": "15.png",
+  "external_url": "https://apexninjaguru.com/",
+  "edition": 15,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Halloween Blue"
+    },
+    {
+      "trait_type": "Sword",
+      "value": "Clarent Down"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Glowing"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Red Casual"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Plain"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Bald Grey"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Blue Side"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4XP4mgM1P9EQiWivat4Lho1d2SY2b9vgcwriq7d1YB4W",
+        "share": 100
+      }
+    ]
+  }
+}

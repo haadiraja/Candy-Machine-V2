@@ -1,0 +1,58 @@
+{
+  "name": "Apex Ninja Guru #2",
+  "symbol": "ANG",
+  "description": "20 Unique Ninjas",
+  "seller_fee_basis_points": 250,
+  "image": "2.png",
+  "external_url": "https://apexninjaguru.com/",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deadsea Day"
+    },
+    {
+      "trait_type": "Sword",
+      "value": "Clarent Down"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sunnies"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Kunglao Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Hairstyle",
+      "value": "Grunge Green"
+    },
+    {
+      "trait_type": "Headband",
+      "value": "Sight"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4XP4mgM1P9EQiWivat4Lho1d2SY2b9vgcwriq7d1YB4W",
+        "share": 100
+      }
+    ]
+  }
+}
