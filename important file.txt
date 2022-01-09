@@ -1,0 +1,30 @@
+Wrote new keypair to ~/.config/solana/devnet-ninja.json
+======================================================================
+pubkey: AQj6nyY8pyHkai8xns8HUqzkqermBKxi23ykrG74EknX
+======================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+spoon such music since gentle moral you fall lion multiply rate tumble
+
+
+//Workflow :
+
+//Generate art
+npm run generate
+----------------------------
+//Generate A new keypair (Wallet):
+solana-keygen new --outfile ~/.config/solana/devnet-ninja.json
+OR/AND
+//Connect Wallet
+solana config set --keypair ~/.config/solana/devnet-ninja.json
+------------------------------
+//Create a candy machine & Upload NFTS to decentralized storage:
+npx ts-node js/packages/cli/src/candy-machine-v2-cli.ts upload -e devnet -k ~/.config/solana/devnet-ninja.json -cp config.json -c example ./assets
+------------------------------
+//Verify the upload
+npx ts-node js/packages/cli/src/candy-machine-v2-cli.ts verify_upload -e devnet -k ~/.config/solana/devnet-ninja.json -cp config.json -c example ./assets
+------------------------------
+// Update Candy Machine
+npx ts-node js/packages/cli/src/candy-machine-v2-cli.ts update_candy_machine -e devnet -k ~/.config/solana/devnet-ninja.json -cp config.json -c example
+------------------------------
+//Mint Tokens
+npx ts-node js/packages/cli/src/candy-machine-v2-cli.ts mint_multiple_tokens -e devnet -k ~/.config/solana/devnet-ninja.json -cp config.json -c example --number 3
